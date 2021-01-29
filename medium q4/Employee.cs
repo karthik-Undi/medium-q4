@@ -11,7 +11,7 @@ namespace Medium_q1
 
 
         int id, age, idd;
-        string name;
+        string name;//hhthdhd
         double salary;
 
         public Employee()

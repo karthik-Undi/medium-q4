@@ -9,7 +9,7 @@ namespace Medium_q1
     class Program
     {
         static void Main(string[] args)
-        {
+        {//ghjtjtjd
             Data.Employees.Add(new Employee());
             for (int i = 0; ; i++)
             {
